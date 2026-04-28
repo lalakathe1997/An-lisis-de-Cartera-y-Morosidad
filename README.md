@@ -1,10 +1,10 @@
 ﻿📉 **Análisis de Riesgo de Cartera y Morosidad**
 Dashboard desarrollado en Power BI para evaluar el comportamiento de la cartera de clientes, identificar niveles de riesgo y apoyar la gestión de cobro mediante el análisis de morosidad.
 
-🎯** Objetivo**
+🎯 **Objetivo**
 Medir el riesgo crediticio de la cartera de clientes, calcular métricas clave de mora y segmentar los clientes por nivel de riesgo, con el fin de facilitar decisiones estratégicas en la gestión de cobro.
 
-📸** Vista del dashboard**
+📸 **Vista del dashboard**
 adjunto en los archivos del repositorio
 
 📌 **Principales hallazgos**
